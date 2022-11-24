@@ -1,5 +1,5 @@
-# 3day-study
-# 3day_study
+# 03day-study
+# 03day_study
 1. 클래스 안에서 선언되면 필드변수
 
 2. 2진법   :
