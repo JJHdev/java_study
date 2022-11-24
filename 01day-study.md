@@ -1,5 +1,5 @@
-# 1day_java_study
-# 1day-study (velog에서 github 이동)
+# 01day_java_study
+# 01day-study (velog에서 github 이동)
 w3school
    * 스스로 공부할때에는 w3school 참고하여 공부하면 좋다.
 
