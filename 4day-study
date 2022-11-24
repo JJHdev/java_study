@@ -1,0 +1,50 @@
+# 4day-study
+
+1.ecipse에서 window에서 활용도구탭 창을 킬수있다.
+
+2. 창 최대화/최소화 : ctrl +M
+   Syso → ctrl+space bar
+   들여쓰기 : tab
+   내어쓰기 : tab+shift
+```
+3. 다중 for문
+  int i = 1;
+    int sum = 0;
+  sum = sum + i
+  sum += i (대입연산자)
+```
+4. +=대입연산자 (p98)
+
+5. 구구단 만들기.(for문, while문)
+
+6. do while문
+  * 조건 따라 반복 계속할지 결정할 때 사용하는 것은 while문과 동일
+  * 무조건 중괄호 {}블록을 한번은 실행하고 조건에 따라 반복 실행
+  
+7. continue문
+  * 지금 진행하는건 멈추고 다음 진행으로 넘겨라.
+  
+8. 대입연산자 ==, !=, %,
+
+9. break, continu
+  * break : 반복문이 중첩된 경우.
+             반복문이 중첩되어 있을 경우 break; 가장 가까운 반복문만 종료
+             
+10. switch
+
+11. Math.class/ random
+  * Math.random()은 0.0이상 1.0미만의 double타입의 난수 발생.
+  * (int)(Math.random()*n)+start Num;
+  
+12. 삼항연산자
+   : 세 개의 피연산자를 필요로 하는 연산자 앞의 조건식 결과에 따라 콜론 앞 뒤의 피연산자 선택 → 조건 연산식
+   
+  * 조건식 ?  값 또는 연산식(true) : 값 또는 연산식 (fales)
+  
+13. 비교연산자 
+   a==b a는 b와 일치 (동일하다.같다)
+   a!=b a는 b와 일치x (동일x하다.같지x)
+   a>b a는 b보다 크다.
+   a>=b a는 b보다 크거나 같다.
+   a<b a는 b보다 작다.
+   a<=b a는 b보다 작거나 같다.
