@@ -1,4 +1,4 @@
-# 2day-study (velog에서 github 이동)
+# 02day-study (velog에서 github 이동)
 
 1. {} 범위를 block이라고 한다. /*범위를 표현*/
 
